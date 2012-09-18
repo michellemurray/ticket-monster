@@ -6,4 +6,7 @@
    xsi:schemaLocation="
         http://java.sun.com/xml/ns/javaee 
         http://java.sun.com/xml/ns/javaee/beans_1_0.xsd">
+    <alternatives>
+        <class>org.jboss.jdf.example.ticketmonster.datagrid.DatagridSeatAllocationService</class>
+    </alternatives>
 </beans>
